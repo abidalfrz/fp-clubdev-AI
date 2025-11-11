@@ -1,6 +1,6 @@
 # Final Project Club Development AI FTEIC
 
-This repository contains my final project for club development AI FTEIC. In this project, I built a natural language processing project focused on classify news articles as hoax or real to address the increasing spread of misinformation in digital media US based on linguistic and contextual features.
+This repository contains my final project for club development AI FTEIC. In this project, I built a natural language processing project focused on `classify news articles as hoax or real to address the increasing spread of misinformation in digital media US based on linguistic and contextual features`.
 
 ---
 
